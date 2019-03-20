@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  box-sizing: border-box;
+  height: 100vh;
+  width: 100vw;
+}
+
+ul{
+  list-style: none;
+  padding: 10px;
+}
+
+.userImage {
+  height: 27vh;
+  width: 27vh;
+  border: solid 2.5px #dfdfdf;
+  border-radius: 50%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.52);
+  margin: 10px;
+  margin-bottom: 25px;
+}
+
+NavItem:hover {
+  text-decoration: none;
+}
